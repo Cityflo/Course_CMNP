@@ -18,7 +18,7 @@ The master code set is divided into 5 parts, which correspond to the different l
 4. Homeostasis
 5. Short-Term Plasticity (STP)
 
-The levels each contain 2 to 4 learning units. The cmaster ode is given separately for each unit, even if some files are identical between some units, such as the Euler integration. Running the code should result in the solution image or images, given at the end of each unit. Due to random number generation, for some units this code will generate a different but essentially equivalent result as the one on the course page itself.
+The levels each contain 2 to 4 learning units. The master code is given separately for each unit, even if some files are identical between some units, such as the Euler integration. Running the code should result in the solution image or images, given at the end of each unit. Due to random number generation, for some units this code will generate a different but essentially equivalent result as the one on the course page itself.
 
 ******
 
