@@ -1,6 +1,6 @@
 # Course_CMNP
 
-This is the master code set for creating the solution figures belonging to the course "Computational Modeling of Neuronal Plasticity" created by Florence Kleberg and Prof. Jochen Triesch, and released online for the INCF Learning Portal.
+This is the master code set for creating the solution figures belonging to the course "Computational Modeling of Neuronal Plasticity" created by Florence Kleberg and Prof. Jochen Triesch, and released online for the INCF TrainingSpace open-access learning Portal.
 
 ****** Important information!! ******
 
