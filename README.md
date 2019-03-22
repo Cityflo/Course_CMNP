@@ -6,7 +6,7 @@ This is the master code set for creating the solution figures belonging to the c
 
 This code is esentially the 'solution key' to this course. Since the goal of the course is to empower you by creating your own neuronal model by programming from scratch, you will not learn much by simply downloading and running this code unless you have tried to make it work with your own code first. For the best learning experience, the code should therefore only be viewed by supervisors or tutors who support students in this course, or by independent students who have tried their best to get the solutions by themselves and wish to either verify the accuracy of their work at the end of the course, or get unstuck from a challenging exercise. 
 
-This code does not constitute the course itself. The course materials, such as the exercises, text and videos, are found on the INCF Learning Portal. 
+This code does not constitute the course itself. The course materials, such as the exercises, text and videos, are found on the INCF TrainingSpace. 
 
 ******
 
